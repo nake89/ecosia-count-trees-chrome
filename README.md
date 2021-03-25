@@ -12,4 +12,4 @@ A Chrome extension. Displays how many trees your searches have planted (it's an 
 
 ## Where to get it?
 
-Not yet published. Install through developer mode in chrome://extensions
+https://chrome.google.com/webstore/detail/ecosia-count-trees/ahfaljmpjgbkmbldipgdldgiiimdphec
